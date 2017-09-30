@@ -1,24 +1,21 @@
-# README
+# Version
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Windows: 10
 
-Things you may want to cover:
+- Ruby: 2.3.3
 
-* Ruby version
+- bundle: 1.15.4
 
-* System dependencies
+# Reference
 
-* Configuration
+[https://qiita.com/toshihr/items/9b7e0d0fdf20f89f0301](url)
 
-* Database creation
+# Usage
 
-* Database initialization
+```
+cd RailsTutorial
+bundle install --path vendor/bundle
+bundle exec rails server
+```
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Go to [http://localhost:3000](url)
