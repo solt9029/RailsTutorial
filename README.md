@@ -2,7 +2,7 @@
 
 - Windows: 10
 
-- Ruby: 2.3.3
+- Ruby: 2.3.3 (DevKit is necessary of cource)
 
 - bundle: 1.15.4
 
