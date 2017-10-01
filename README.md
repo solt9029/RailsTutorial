@@ -8,7 +8,7 @@
 
 # Reference
 
-[https://qiita.com/toshihr/items/9b7e0d0fdf20f89f0301](url)
+[https://qiita.com/toshihr/items/9b7e0d0fdf20f89f0301](https://qiita.com/toshihr/items/9b7e0d0fdf20f89f0301)
 
 # Usage
 
@@ -18,4 +18,4 @@ bundle install --path vendor/bundle
 bundle exec rails server
 ```
 
-Go to [http://localhost:3000](url)
+Go to [http://localhost:3000](http://localhost:3000)
